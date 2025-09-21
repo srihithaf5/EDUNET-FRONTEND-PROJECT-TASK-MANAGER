@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task Manager with Progress Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <h1>Task Manager</h1>
+
+    <div class="task-input">
+      <input type="text" id="taskInput" placeholder="Enter a task">
+      <button id="addTaskBtn">Add Task</button>
+    </div>
+
+    <!-- Progress Tracker -->
+    <div class="progress-container">
+      <div class="progress-bar" id="progressBar"></div>
+    </div>
+    <p id="progressText">0% Completed</p>
+
+    <ul id="taskList"></ul>
+  </div>
+
+  <!-- Edit Modal -->
+  <div id="editModal" class="modal">
+    <div class="modal-content">
+      <span class="closeBtn">&times;</span>
+      <h2>Edit Task</h2>
+      <input type="text" id="editTaskInput">
+      <button id="saveEditBtn">Save</button>
+    </div>
+  </div>
+
+  <canvas id="confettiCanvas"></canvas>
+  <script src="script.js"></script>
+</body>
+</html>
