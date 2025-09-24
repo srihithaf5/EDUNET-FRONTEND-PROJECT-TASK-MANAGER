@@ -61,6 +61,18 @@ Export tasks to a .txt / .csv file.
 
 # OUTPUT SCREENSHOTS
 
+<img width="1911" height="916" alt="Image" src="https://github.com/user-attachments/assets/48d68481-9ebf-4122-a72e-3333538a4d31" />
+
+<img width="1897" height="899" alt="Image" src="https://github.com/user-attachments/assets/daf09355-d520-40f3-bf68-e3e54aee131e" />
+
+<img width="1896" height="907" alt="Image" src="https://github.com/user-attachments/assets/b08f64ea-eb0b-4ccc-9b3c-ca8970f46e1a" />
+
+<img width="1900" height="902" alt="Image" src="https://github.com/user-attachments/assets/a8c48d60-7888-4e6b-90d1-5634a8b3e525" />
+
+<img width="1863" height="879" alt="Image" src="https://github.com/user-attachments/assets/1a9b21f8-5948-4a81-a408-ecf4bdc1250e" />
+
+
+
 
 
 
