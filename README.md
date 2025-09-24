@@ -71,6 +71,8 @@ Export tasks to a .txt / .csv file.
 
 <img width="1863" height="879" alt="Image" src="https://github.com/user-attachments/assets/1a9b21f8-5948-4a81-a408-ecf4bdc1250e" />
 
+<img width="1883" height="899" alt="Image" src="https://github.com/user-attachments/assets/b905ba0e-d1db-4df8-8c3c-4632e8243f7c" />
+
 
 
 
